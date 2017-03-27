@@ -14,40 +14,40 @@ public class exercitiu4 {
 //            if (1 <= month && month <= 12) {
             switch (month) {
                 case 1:
-                    monthString = "January";
+                    monthString = "Ianuarie";
                     break;
                 case 2:
-                    monthString = "February";
+                    monthString = "Februarie";
                     break;
                 case 3:
-                    monthString = "March";
+                    monthString = "Martie";
                     break;
                 case 4:
-                    monthString = "April";
+                    monthString = "Aprilie";
                     break;
                 case 5:
-                    monthString = "May";
+                    monthString = "Mai";
                     break;
                 case 6:
-                    monthString = "June";
+                    monthString = "Iunie";
                     break;
                 case 7:
-                    monthString = "July";
+                    monthString = "Iulie";
                     break;
                 case 8:
                     monthString = "August";
                     break;
                 case 9:
-                    monthString = "September";
+                    monthString = "Septembrie";
                     break;
                 case 10:
-                    monthString = "October";
+                    monthString = "Octombrie";
                     break;
                 case 11:
-                    monthString = "November";
+                    monthString = "Noiembrie";
                     break;
                 case 12:
-                    monthString = "December";
+                    monthString = "Decembrie";
                     break;
                 default:
                     monthString = "Eroare.";
